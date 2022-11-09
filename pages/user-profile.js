@@ -1,5 +1,5 @@
-export default UserProfilePage() {
+export default UserProfilePage(props) {
     return(
-        
+
     )
 }
